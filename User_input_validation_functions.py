@@ -2,7 +2,7 @@
 
 
 
-def integers_only_input():			# Done
+def integers_only_input():
 	# accept integers only (including negative numbers)
 	# no floats or any other data types
 	# display error message if empty input
@@ -14,7 +14,7 @@ def integers_only_input():			# Done
 			print("Please enter integers only!")
 
 
-def integers_only_input_clean():	# Done
+def integers_only_input_clean():
 	# accept integers only (including negative numbers)
 	# no floats or any other data types
 	# re-prompt if empty input
@@ -28,7 +28,7 @@ def integers_only_input_clean():	# Done
 				print("Please enter integers only!")
 
 
-def none_zero_integers_input_only():		# Done
+def none_zero_integers_input_only():
 	# accept integers only (including negative numbers)
 	# no floats or any other data types
 	# display error message if empty input
@@ -46,7 +46,7 @@ def none_zero_integers_input_only():		# Done
 			print("Please enter integers only!")
 
 
-def none_zero_integers_input_only_clean():	# Done
+def none_zero_integers_input_only_clean():
 	# accept integers only (including negative numbers)
 	# no floats or any other data types
 	# re-prompt if empty input
@@ -66,7 +66,7 @@ def none_zero_integers_input_only_clean():	# Done
 				print("Please enter integers only!")
 
 
-def yes_or_no_input_only():			# Done
+def yes_or_no_input_only():
 	# accept "y" or "n" only
 	# display error message if empty input
 	# display error message if input != "y" or "n"
@@ -79,7 +79,7 @@ def yes_or_no_input_only():			# Done
 			print('Please answer with "y" or "n" only!')
 
 
-def yes_or_no_input_only_clean():	# Done
+def yes_or_no_input_only_clean():
 	# accept "y" or "n" only
 	# re-prompt if empty input
 	# display error message if input != "y" or "n"
