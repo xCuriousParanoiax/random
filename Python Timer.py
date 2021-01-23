@@ -7,7 +7,7 @@ import sys
 class Timer:
 	def __init__(self):
 		self.pause = False
-		self.milliseconds = 1000000000000000
+		self.milliseconds = 0
 
 	def timer(self):
 		if self.pause == False:
